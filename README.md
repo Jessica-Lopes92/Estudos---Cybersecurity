@@ -1,16 +1,27 @@
-# Estudos---Cybersecurity
-# Instalando a Kali em uma VM
+# Laboratório de Cibersegurança
 
-## Objetivo inicial:
+## Sobre o projeto
 
-- Instalar o Oracle VirtualBox
-- Instalar o S.O kali Linux
+Este repositório documenta minha evolução prática nos estudos de redes de computadores e cibersegurança, utilizando ambientes virtuais para aprender conceitos fundamentais de segurança da informação.
 
-## Ferramentas usadas:
+## Objetivos
 
-- Oracle Virtualbox 
-- S.O Kali Linux
-
-  Estou estudando Segurança da Informação e comecei a montar meu próprio laboratório para colocar em prática o que venho aprendendo na teoria. Vou compartilhar aqui meus primeiros passos, os testes que estou realizando e tudo que for aprendendo durante esse processo. 🚀💻.
+- Compreender conceitos básicos de redes.
+- Praticar configurações de rede no VirtualBox.
+- Conhecer o ambiente Kali Linux.
+- Desenvolver fundamentos para análise de alertas de segurança.
+- Ambiente de laboratório
+- Virtualização: Oracle VirtualBox
+- Sistema operacional: Kali Linux
+- Atividades: configuração de rede, conectividade e fundamentos de segurança.
   
-  A princípio, quero compartilhar o passo a passo de como instalar uma máquina virtual, baixar o Kali Linux e ter o primeiro contato com o sistema. A ideia é mostrar como foi minha experiência e ajudar quem também está começando e quer dar os primeiros passos na Segurança da Informação, assim como eu. 
+## Atividades práticas
+
+As atividades serão documentadas conforme forem realizadas, com procedimentos, capturas de tela e resultados observados.
+
+## Aprendizados
+Esta seção será atualizada com os conhecimentos adquiridos durante a construção do laboratório.
+
+## Aviso
+
+Laboratório educacional executado em ambiente controlado, destinado exclusivamente ao aprendizado e à prática autorizada
