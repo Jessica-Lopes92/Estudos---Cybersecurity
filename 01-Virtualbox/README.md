@@ -25,4 +25,10 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
   <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/tGDkghwGrc.png" width="950">
   <br>
   <strong>Passo 1 – Tela inicial para o download da VM</strong>
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_w0XGykfcZA.png">
+  <br>
+  <strong>Passo 2 – Tela inicial para a instalação</strong>
+
+
+
 </p>
