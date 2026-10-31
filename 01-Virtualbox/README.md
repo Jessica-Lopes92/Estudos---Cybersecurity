@@ -51,7 +51,7 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pnRnZXXzNM.png](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pBjcKTAXUR.png">
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pBjcKTAXUR.png">
   <br>
   <strong>Passo 6 – Finalizando a instalação do Orancle Virtualbox </strong>
 </p>
