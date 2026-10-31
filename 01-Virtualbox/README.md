@@ -7,4 +7,6 @@ Documentar a Instalação e configuração do Virtualbox
 
 
 Como realizar a instalação do virtualbox 
-![meu laborátorio de estudo](image.png)
+![meu laborátorio de estudo]
+
+(image.png)
