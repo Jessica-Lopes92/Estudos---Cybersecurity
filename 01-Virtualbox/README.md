@@ -7,4 +7,4 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 
 ## Instalação do VirtualBox
 
-![VirtualBox](01-Virtualbox/tGDkghwGrc.png)
+![VirtualBox](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/tGDkghwGrc.png)
