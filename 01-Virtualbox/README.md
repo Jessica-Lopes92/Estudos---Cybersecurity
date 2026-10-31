@@ -45,7 +45,7 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 </p>
 
 <p align="center">
-  <img src="[https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pBjcKTAXUR](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pnRnZXXzNM.png).png">
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pnRnZXXzNM.png">
   <br>
   <strong>Passo 5 – Tela inicial para a instalação</strong>
 </p>
