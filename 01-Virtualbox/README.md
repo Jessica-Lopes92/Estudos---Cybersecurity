@@ -10,13 +10,13 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 ![VirtualBox](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/tGDkghwGrc.png)
 
 ![iniciando a instalação passo1](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_w0XGykfcZA.png)
-
 ![Passo 2](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_JDOuE8W46l.png)
-
+Passo 1
 ![Passo 3](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_QciTD1SEtZ.png)
-
+Passo 2
 ![Passo 4](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pnRnZXXzNM.png)
-
+Passo3
 ![Passo 5](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pBjcKTAXUR.png)
-
+Passo 4
 ![Passo 6](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox_Di47Bbbz3P.png)
+Passo 5
