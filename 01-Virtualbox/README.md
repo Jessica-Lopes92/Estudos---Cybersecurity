@@ -7,4 +7,4 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 
 ## Instalação do VirtualBox
 
-![VirtualBox](imagens/virtualbox.png)
+![VirtualBox](01-Virtualbox/tGDkghwGrc.png)
