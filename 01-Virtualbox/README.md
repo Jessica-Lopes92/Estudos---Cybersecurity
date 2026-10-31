@@ -9,4 +9,4 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 
 ![VirtualBox](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/tGDkghwGrc.png)
 
-(https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_w0XGykfcZA.png)
+!(https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_w0XGykfcZA.png)
