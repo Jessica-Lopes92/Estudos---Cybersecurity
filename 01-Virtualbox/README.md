@@ -9,7 +9,6 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 
 
 
-![iniciando a instalação passo1](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_w0XGykfcZA.png)
 
 ![Passo 2](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_JDOuE8W46l.png)
 
@@ -30,7 +29,19 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
   <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_w0XGykfcZA.png">
   <br>
   <strong>Passo 2 – Tela inicial para a instalação</strong>
-
-
-
+</p>
+<p align="center">
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_JDOuE8W46l.png">
+  <br>
+  <strong>Passo 3 – Tela para aprovar a instalação</strong>
+</p>
+<p align="center">
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_QciTD1SEtZ.png">
+  <br>
+  <strong>Passo 4 – Tela lolização do cvaminho onde sera instalado o software</strong>
+</p>
+<p align="center">
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox-7.2.22-175245-Win_pBjcKTAXUR.png">
+  <br>
+  <strong>Passo 5 – Tela inicial para a instalação</strong>
 </p>
