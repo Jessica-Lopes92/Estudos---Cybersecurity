@@ -21,3 +21,8 @@ O Objetivo é desenvolver conhecimentos em sistemas operacionais, redes de compu
 
 ![Passo 6](https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/VirtualBox_Di47Bbbz3P.png)
 
+<p align="center">
+  <img src="https://github.com/Jessica-Lopes92/Estudos---Cybersecurity/blob/main/01-Virtualbox/tGDkghwGrc.png" width="600">
+  <br>
+  <strong>Passo 1 – Instalação do Kali Linux</strong>
+</p>
